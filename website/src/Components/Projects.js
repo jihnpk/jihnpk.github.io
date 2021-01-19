@@ -1,0 +1,19 @@
+import React from "react";
+
+const Projects =()=> {
+    return(
+        <div className="projects">
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis gravida turpis nec luctus convallis. Nulla leo nisi, facilisis a viverra vel, euismod in ante. Nulla dui tellus, faucibus quis lectus eu, convallis ultrices augue. Nullam id nisl nunc. Praesent eros dolor, pharetra pulvinar condimentum ac, convallis sed odio. Ut congue arcu eu congue mattis. In ornare mattis sollicitudin. Sed facilisis, nisi non consequat dapibus, neque leo pharetra sapien, a ullamcorper lectus lorem vitae erat. Suspendisse at leo quis eros sodales sodales. Vivamus maximus est eu nulla rutrum, congue suscipit purus dictum. Phasellus nisi arcu, dictum a ligula nec, sodales fermentum lectus. Maecenas placerat magna lectus, sed porta velit placerat bibendum. Aliquam dapibus in magna vulputate feugiat.
+
+Maecenas lacinia dui et posuere rhoncus. Nullam neque lectus, egestas eget libero quis, bibendum pellentesque libero. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Praesent eu enim neque. Sed eu lacus vitae enim efficitur convallis. Aliquam vitae massa laoreet, lacinia urna quis, sodales sem. Cras congue efficitur dui eget accumsan. Aenean euismod accumsan ligula, quis facilisis risus dapibus sit amet. In quis sem vitae enim suscipit vehicula. Sed eget nunc hendrerit, efficitur lorem quis, rhoncus augue. Cras varius est quis nisl vehicula, a eleifend risus ultrices. Nam ac risus vitae nibh tincidunt pretium vitae ac ligula. In hac habitasse platea dictumst. Duis eget tortor fringilla risus suscipit tristique. Maecenas mollis, elit vitae cursus semper, dui ex ultricies odio, eu rutrum sapien ipsum a diam. Cras rhoncus pretium elit, sit amet vestibulum purus blandit et.
+
+Pellentesque congue sagittis nibh, ac tempus orci sagittis vitae. Nam ac dapibus ligula. In non sapien quis nulla lobortis volutpat. Sed sollicitudin felis sapien, et auctor nulla venenatis a. Maecenas ultricies lobortis velit, sed fringilla augue interdum et. Suspendisse erat sapien, gravida vel molestie vel, bibendum fringilla turpis. Quisque porta at tortor non placerat. Nunc quis maximus nunc, at pretium ante. Curabitur elementum mi at neque accumsan, eget viverra sem scelerisque. Etiam at malesuada justo. Cras a suscipit orci, et laoreet turpis. Fusce venenatis, nulla in malesuada viverra, purus felis volutpat lorem, sit amet dictum velit nibh a nulla. Mauris sit amet mi eros. In rhoncus justo vel lacus feugiat, ut lacinia justo ornare. Vestibulum in laoreet tellus, non finibus orci. Cras pharetra blandit dui, in pharetra velit tristique a.
+
+Aliquam nisl erat, malesuada a mauris ut, pharetra gravida nunc. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed quis sem ac purus viverra scelerisque. Praesent volutpat nisl et mi vehicula, quis pellentesque neque mollis. Curabitur nec mauris ut erat luctus rutrum. Etiam vestibulum sapien lectus, sit amet dictum leo commodo eu. Ut rhoncus commodo nisl. Maecenas lacinia lorem quam, sodales ornare odio ullamcorper eu. Aliquam erat volutpat. Nullam non augue volutpat, accumsan mauris non, viverra libero.
+
+Sed enim arcu, cursus nec mi nec, tincidunt porta erat. Proin a auctor odio. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Fusce posuere lacus et magna interdum, eget blandit metus viverra. Etiam nec euismod eros. Etiam nec gravida purus. Pellentesque vitae lorem interdum, sollicitudin velit sit amet, iaculis nulla. Fusce eu viverra dolor. In vitae sapien ac orci ultricies porta sed at dolor. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vestibulum rhoncus in ante ac facilisis.</p>
+        </div>
+    )
+}
+
+export default Projects;
